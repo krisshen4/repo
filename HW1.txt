@@ -1,0 +1,10 @@
+HW1 Yi Shen(ys852)
+1. Version Control with Git:
+1.1. What is version control and why should I use it?
+Version control systems start with a base version of the document and then record changes you make each step of the way. Version control is like an unlimited ‘undo’. Version control also allows many people to work in parallel.
+1.2. Set up Git Global username and email address.
+1.3. Git init initializes a repository, and stores all its data into .git directory.
+1.4. Tracking changes by git add, git commit and git diff.
+1.5. Git diff and git checkout.
+1.6. Dummy files: .gitignore
+
